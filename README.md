@@ -5,7 +5,7 @@ Este repositório contém um modelo de LSTM treinado para a classificação de t
 ## Estrutura do Repositório
 
 - `model/`: Contém o modelo treinado (`LSTM_Publicações_V1.h5`).
-- `src/`: Contém o script de previsão (`predict.py`).
+- `src/`: Contém o script de previsão (`model_predict.py`).
 - `data/`: Contém exemplos de textos para classificação.
 - `notebooks/`: Contém notebooks Jupyter para análise exploratória.
 - `requirements.txt`: Lista de dependências do projeto.
