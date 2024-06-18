@@ -19,3 +19,5 @@ Este repositório contém um modelo de LSTM treinado para a classificação de t
 ```bash
 git clone https://github.com/bsnaiara5/text-classification-lstm.git
 cd text-classification-lstm
+
+### 2. Chamar a função de predição (model_predict.py)
